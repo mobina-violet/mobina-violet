@@ -1,7 +1,7 @@
 <h2 align="center">Hi There</h2>
 <p align="center"><img  src="https://raw.githubusercontent.com/mobina-violet/mobina-violet/refs/heads/main/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966.gif" /></p>
 
-**🎀About me**
+<h2> 🎀 About me</h2>
 
 ```javascript
 const info = {

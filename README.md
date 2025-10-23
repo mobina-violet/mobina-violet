@@ -1,6 +1,9 @@
+<!--
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:A78BFA&height=180&section=header&text=Hi%20There!%20I'm%20Mobina%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:A78BFA&height=150&section=header&text=Hi%20There!%20I'm%20Mobina%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
+-->
+
 
 **🎀About me**
 

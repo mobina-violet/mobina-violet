@@ -15,4 +15,5 @@ quote: "Code is like art — every line should have purpose 🎨"
 ```
 ---
 <h2>social</h2>
-<a><img src="" /></a>
+<a href="https://instagram.com/mobina.violet"><img src="https://github.com/mobina-violet/mobina-violet/blob/main/icons8-instagram-logo-48.png?raw=true" /></a>
+<a href="https://t.me/mobina-violet"><img src="" /></a>

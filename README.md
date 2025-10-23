@@ -1,5 +1,7 @@
-**Hi There 👋** 
------
+
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9A4DFF&center=true&vCenter=true&width=435&lines=Hi+There+👋;I'm+Mobina+🌸;Frontend+Developer+%26+Designer" alt="Typing SVG" />
+</h1>
 
 **About me**
 ```javascript

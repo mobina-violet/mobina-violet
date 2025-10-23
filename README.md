@@ -1,9 +1,10 @@
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9A4DFF&center=true&vCenter=true&width=435&lines=Hi+There+👋;I'm+Mobina+🌸;Frontend+Developer+%26+Designer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9A4DFF&center=true&vCenter=true&width=435&lines=Hi+There+👋🏼;I'm+Mobina+✨🌻;Frontend+Developer+%26+Designer" alt="Typing SVG" />
 </h1>
 
-**About me**
+**🎀About me**
+
 ```javascript
 const info = {
   name: "Mobina",
@@ -38,6 +39,7 @@ quote: "Code is like art — every line should have purpose 🎨"
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 <br/>
-```
-<p align="center"><i>“Code with purpose, design with soul.” 💫</i></p><p align="center"> ⭐️ From <a href="https://github.com/mobina-violet">Mobina Violet</a> </p>
-```
+
+<p align="center">
+ <i>“Code with purpose, design with soul.” 💫</i></p><p align="center"> ⭐️ From <a href="https://github.com/mobina-violet">Mobina Violet</a> </p>
+

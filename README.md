@@ -1,7 +1,6 @@
-
-<h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9A4DFF&center=true&vCenter=true&width=435&lines=Hi+There+👋🏼;I'm+Mobina+✨🌻;Frontend+Developer+%26+Designer" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:A78BFA&height=180&section=header&text=Hi%20There!%20I'm%20Mobina%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 **🎀About me**
 

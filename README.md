@@ -6,7 +6,6 @@
 ```javascript
 const info = {
   name: "Mobina",
-  code: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
   skills: {
     languages: ["HTML", "CSS", "JavaScript"],
     frameworks: ["Tailwind CSS"],

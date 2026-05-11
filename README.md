@@ -14,7 +14,7 @@ const info = {
   interests: ["Art 🎨", "Drawing ✏️", "Reading Books 📚", "Design & Aesthetics 💫"],
   goals: [
     "Improve my web design skills 💻",
-    "Learn typescript ",
+    "Learn typescript & Nodejs ",
     "Build clean and user-friendly interfaces 🌿"
   ],
 quote: "Code is like art — every line should have purpose 🎨"

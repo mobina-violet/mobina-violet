@@ -7,14 +7,14 @@
 const info = {
   name: "Mobina",
   skills: {
-    languages: ["HTML", "CSS", "JavaScript"],
+    languages: ["HTML", "CSS", "JavaScript","React"],
     frameworks: ["Tailwind CSS"],
     tools: ["VS Code", "Git", "GitHub"],
   },
   interests: ["Art 🎨", "Drawing ✏️", "Reading Books 📚", "Design & Aesthetics 💫"],
   goals: [
     "Improve my web design skills 💻",
-    "Learn React ⚛️",
+    "Learn typescript ",
     "Build clean and user-friendly interfaces 🌿"
   ],
 quote: "Code is like art — every line should have purpose 🎨"

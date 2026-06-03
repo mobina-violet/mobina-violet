@@ -1,5 +1,6 @@
 <h2 align="center">Hi There</h2>
 <p align="center"><img  src="https://raw.githubusercontent.com/mobina-violet/mobina-violet/refs/heads/main/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966.gif" /></p>
+
 <h2> 🎀 About me</h2>
 
 ```javascript
@@ -19,9 +20,9 @@ const info = {
 quote: "Code is like art — every line should have purpose 🎨"
 };
 ```
-
 <br/>
 <h2>📫 Let's Connect!</h2>
+
 <p align="center">
   <a href="https://instagram.com/mobina.violet"><img src="https://github.com/mobina-violet/mobina-violet/blob/main/icons8-instagram-logo-48.png?raw=true" alt="Instagram" />
   </a>
@@ -37,22 +38,6 @@ quote: "Code is like art — every line should have purpose 🎨"
 </p>
 <br/>
 
-<h2>🚀 Projects</h2>
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [MiniShop](https://github.com/mobina-violet/Minishop) | A full-featured e-commerce app with product filtering, cart management, and checkout | React · TypeScript · Tailwind CSS |
-
-<br/>
-
-<h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobina-violet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobina-violet&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+ <i>“Code with purpose, design with soul.” 💫</i></p><p align="center"> ⭐️ From <a href="https://github.com/mobina-violet">Mobina Violet</a> </p>
 
-<br/>
-<p align="center">
- <i>"Code with purpose, design with soul." 💫</i></p><p align="center"> ⭐️ From <a href="https://github.com/mobina-violet">Mobina Violet</a> </p>
